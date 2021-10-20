@@ -130,8 +130,8 @@ const int int_1 = 1;
 const struct language_table language_tables[] = {
 	{"en-us", "EN"},
 	{"en", "EN"},
-	{"ru-ru", "RU"},
-	{"ru", "RU"},
+	{"vi-vi", "VI"},
+	{"vi", "VI"},
 	{"uk-UA", "UK"},
 	{"uk", "UK"},
 	{"fr", "FR"},
